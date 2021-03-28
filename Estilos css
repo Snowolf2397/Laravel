@@ -1,0 +1,38 @@
+a
+    decoración de texto : ninguna
+    color : negro
+
+hora
+    ancho : 15 %
+    borde superior : 2 px  sólido  # 9D9D9D
+    margen : 0  automático
+    margen inferior : 2 rem
+
+.bg-main
+    color de fondo : # CDE4E7 ! importante
+
+.contenido
+    color de fondo : # E6F0F1
+
+.categoría-seleccionada
+    borde inferior : 2 px  negro sólido 
+
+.card-txt-categoría
+    color : # 9D9D9D
+    tamaño de fuente : 12 px
+.card-txt-autor
+    color : # 9D9D9D
+    tamaño de fuente : 14 px
+.card-txt-fecha
+    color : # 9D9D9D
+    tamaño de fuente : 14 px
+
+.tarjeta
+    caja-sombra : 1 px  1 px  5 px  1 px rgba ( 0 , 0 , 0 , 0.2 )
+    radio del borde : 1,25 rem
+    .card-img-top
+        border-top-left-radius : calc ( 1.25 rem  -  1 px )
+        border-top-right-radius : calc ( 1.25 rem  -  1 px )
+
+.post-txt
+    color : # 9D9D9D
